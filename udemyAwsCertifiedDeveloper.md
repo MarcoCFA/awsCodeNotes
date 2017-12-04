@@ -1,7 +1,4 @@
-# Intro
-tommy0555110@yahoo.com
-vinceMichaels
-lptx4153
+
 
 ## CDA
 - AWS is fastest growing computing platform
